@@ -4,31 +4,45 @@ Data visualization project proposal
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is about [the Largest Cities population in US 2020](https://gist.github.com/dralmadani/c04f95746e2f36b040d3d764ab7b9c62)
+Originally published at [World Population Review](https://worldpopulationreview.com/us-cities)
+
+
+
+----
 
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://user-images.githubusercontent.com/25451974/94352453-188a9700-0033-11eb-8290-6284ca75f30c.png)
+](https://vizhub.com/dralmadani/d811f91dafdb465887040da5445d2a41?file=viz.js)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
+enjoy looking on this graph :)
 
+This visualization focuses on
+- City
+- State
+- pop2020 : the population in 2020
+
+----
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
-
+  * What are the top 200 largest cities in the USA in 2020 ?
+  * What are the top ten Largest cities in US by population in 2020 ?
+  * Which state has most largest cities ?
+  * How many Large Cities Population in each state ?
+  
+----  
 ## Sketches
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
+----
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
-
+  - I'm not sure where to get the geographic shapes to build a map from this data
+  - I'm not sure how to get movement visualization to show the difference between the population from 2010 to 2020 for each city
