@@ -41,7 +41,7 @@ This visualization focuses on
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
-  * What are the top 200 largest cities in the USA in 2020 ?
+  * What are the top 200 largest cities in the USA in 2020 (by population/ density / area)
   * What are the top ten Largest cities in US by population in 2020 ?
   * Which state has most largest cities ?
   * How many Large Cities Population in each state ?
@@ -49,8 +49,17 @@ The following tasks and questions will drive the visualization and interaction d
 ----  
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
+![image](https://user-images.githubusercontent.com/25451974/94355532-d2453000-0052-11eb-947c-72aa9f4e6fd9.png)
+
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+
+![01TopCitiesSketching](https://user-images.githubusercontent.com/25451974/94355734-a3c85480-0054-11eb-87f0-bb188d87a195.jpeg)
+This is the first sketching about my project and I hope those sketches drive the visualization.
+![02TopCitiesSketching](https://user-images.githubusercontent.com/25451974/94355741-acb92600-0054-11eb-9547-0d33945ba4fe.jpeg)
+General visualization for top cities by population then top states having those cities 
+![03TopCitiesSketching](https://user-images.githubusercontent.com/25451974/94355743-b17dda00-0054-11eb-8ab7-86bc8c2504fc.jpeg)
+Tring to show city name and population also, places in the USA map
+
 
 ----
 ## Open Questions
