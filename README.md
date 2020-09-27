@@ -7,6 +7,17 @@ Data visualization project proposal
 The data I propose to visualize for my project is about [the Largest Cities population in US 2020](https://gist.github.com/dralmadani/c04f95746e2f36b040d3d764ab7b9c62)
 Originally published at [World Population Review](https://worldpopulationreview.com/us-cities)
 
+#### The attribute
+ 1- Rank
+ 2- City
+ 3- State
+ 4- usps : the Abbreviation for state
+ 5- pop2020 : the population in 2020
+ 6- pop2010 : the population in 2010
+ 7- change : the percentage between 2020 and 2010
+ 8- density: the density in each city (Km sqe)
+ 9- aland : the area for each city (Km sqe)
+
 
 
 ----
