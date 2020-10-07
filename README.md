@@ -1,8 +1,9 @@
 # Data Visualization Project
 Data visualization project proposal
 
-
+======
 ## Data
+-----
 
 The data I propose to visualize for my project is about [the Largest Cities population in US 2020](https://gist.github.com/dralmadani/c04f95746e2f36b040d3d764ab7b9c62)
 Originally published at [World Population Review](https://worldpopulationreview.com/us-cities)
@@ -20,10 +21,10 @@ Originally published at [World Population Review](https://worldpopulationreview.
 
 
 
-----
 
+=====
 ## Prototypes
-
+----
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
 [![image](https://user-images.githubusercontent.com/25451974/94352453-188a9700-0033-11eb-8290-6284ca75f30c.png)
@@ -36,9 +37,9 @@ This visualization focuses on
 - State
 - pop2020: the population in 2020
 
-----
+=====
 ## Questions & Tasks
-
+----
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
   * What are the top 200 largest cities in the USA in 2020 by population?
@@ -48,8 +49,9 @@ The following tasks and questions will drive the visualization and interaction d
   * Which state has the largest cities?
   * How many large cities population in each state?
   
-----  
+======  
 ## Sketches
+-----
 
 ![image](https://user-images.githubusercontent.com/25451974/94355532-d2453000-0052-11eb-947c-72aa9f4e6fd9.png)
 
@@ -66,8 +68,10 @@ General visualization for top cities by population then top states having those 
 <br>
 Tring to show city name and population also, places in the USA map
 
-----
+=====
 ## Open Questions
+----
 
   - I'm not sure where to get the geographic shapes to build a map from this data
   - I'm not sure how to get movement visualization to show the difference between the population from 2010 to 2020 for each city
+----
