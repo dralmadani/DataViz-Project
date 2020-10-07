@@ -11,12 +11,12 @@ Originally published at [World Population Review](https://worldpopulationreview.
  1- Rank
 <br> 2- City
 <br> 3- State
-<br> 4- usps : the Abbreviation for state
-<br> 5- pop2020 : the population in 2020
-<br> 6- pop2010 : the population in 2010
-<br> 7- change : the percentage between 2020 and 2010
-<br> 8- density: the density in each city (Km sqe)
-<br> 9- aland : the area for each city (Km sqe)
+<br> 4- usps: the Abbreviation for state
+<br> 5- pop2020: the population in 2020
+<br> 6- pop2010: the population in 2010
+<br> 7- change: the percentage between 2020 and 2010
+<br> 8- density: the density in each city (Km square)
+<br> 9- aland: the area for each city (Km square)
 
 
 
@@ -29,12 +29,12 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 [![image](https://user-images.githubusercontent.com/25451974/94352453-188a9700-0033-11eb-8290-6284ca75f30c.png)
 ](https://vizhub.com/dralmadani/d811f91dafdb465887040da5445d2a41?file=viz.js)
 
-enjoy looking on this graph :)
+enjoy looking at this graph :)
 
 This visualization focuses on
 - City
 - State
-- pop2020 : the population in 2020
+- pop2020: the population in 2020
 
 ----
 ## Questions & Tasks
@@ -42,11 +42,11 @@ This visualization focuses on
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
   * What are the top 200 largest cities in the USA in 2020 by population?
-  * What are the top ten Largest cities in US by population in 2020 by population?
-  * What are the top ten Largest cities in US by population in 2020 by density ?
-  * What are the top ten Largest cities in US by population in 2020 by area ?
-  * Which state has most largest cities ?
-  * How many Large Cities Population in each state ?
+  * What are the top ten largest cities in the US by population in 2020 by population?
+  * What are the top ten largest cities in the US by population in 2020 by density?
+  * What are the top ten largest cities in the US by population in 2020 by area?
+  * Which state has the largest cities?
+  * How many large cities population in each state?
   
 ----  
 ## Sketches
