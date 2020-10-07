@@ -74,4 +74,31 @@ Tring to show city name and population also, places in the USA map
 
   - I'm not sure where to get the geographic shapes to build a map from this data
   - I'm not sure how to get movement visualization to show the difference between the population from 2010 to 2020 for each city
+
+====
+## Schedule of Deliverables
 ----
+Task 1 - changing attribute: trining to change some attribute as a text to numbers to deal with it.(estimate deliver date: 14-10-2020)
+Task 2 - adding a menu to my project with respect to the categorical and numerical data. (estimate deliver date: 14-10-2020)
+Task 3 - using interactive color to the chart.(estimate deliver date: 21-10-2020)
+Task 4 - make the stacked bar chart.(estimate deliver date: 21-10-2020)
+Task 5 - making aggregation and grouping for city and state (estimate deliver date: 28-10-2020)
+Task 6 - update the menu code (estimate deliver date: 28-10-2020)
+Task 7 - adding X title and Y title for the chart (estimate deliver date: 4-11-2020)
+Task 8 - making some movement on my visualization (estimate deliver date: 4-11-2020)
+Task 9 - complete the project and removing all comments code (estimate deliver date: 11-11-2020)
+
+<table>
+<thead>
+<tr>
+<th>foo</th>
+<th>bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>baz</td>
+<td>bim</td>
+</tr>
+</tbody>
+</table>
