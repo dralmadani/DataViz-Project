@@ -98,7 +98,7 @@ Tring to show city name and population also, places in the USA map
  
 <tr>
 <td>3</td>
-<td>adding a menu to my project with respect to the categorical and numerical data</td>
+<td>Adding a menu to my project with respect to the categorical and numerical data</td>
 <td>14-10-2020</td>
 </tr>
 
@@ -122,7 +122,7 @@ Tring to show city name and population also, places in the USA map
 
 <tr>
 <td>1</td>
-<td>update the menu code</td>
+<td>Update the menu code</td>
 <td>28-10-2020</td>
 </tr>
 
