@@ -79,20 +79,12 @@ Tring to show city name and population also, places in the USA map
 ----
 ## Schedule of Deliverables
 
-Task 1 - Changing attribute: trining to change some attribute as a text to numbers to deal with it.(estimate deliver date: 14-10-2020)
-Task 2 - adding a menu to my project with respect to the categorical and numerical data. (estimate deliver date: 14-10-2020)
-Task 3 - using interactive color to the chart.(estimate deliver date: 21-10-2020)
-Task 4 - make the stacked bar chart.(estimate deliver date: 21-10-2020)
-Task 5 - making aggregation and grouping for city and state (estimate deliver date: 28-10-2020)
-Task 6 - update the menu code (estimate deliver date: 28-10-2020)
-Task 7 - adding X title and Y title for the chart (estimate deliver date: 4-11-2020)
-Task 8 - making some movement on my visualization (estimate deliver date: 4-11-2020)
-Task 9 - complete the project and removing all comments code (estimate deliver date: 11-11-2020)
-
 <table>
 <thead>
 <tr>
-<th>Time Required (in Hours)</th>
+<th>Time 
+ Required
+ (in Hours)</th>
 <th>Task</th>
 <th>estimate deliver date</th>
 </tr>
@@ -103,42 +95,51 @@ Task 9 - complete the project and removing all comments code (estimate deliver d
 <td>Changing attribute: trining to change some attribute as a text to numbers to deal with it</td>
 <td>14-10-2020</td>
 </tr>
- <tr>
+ 
+<tr>
 <td>3</td>
 <td>adding a menu to my project with respect to the categorical and numerical data</td>
 <td>14-10-2020</td>
 </tr>
+
 <tr>
- <tr>
 <td>3</td>
-<td>make the stacked bar chart</td>
+<td>Makeing a stacked bar chart</td>
 <td>21-10-2020</td>
 </tr>
+
+<tr>
  <td>1</td>
 <td>Using interactive color to the chart</td>
 <td>21-10-2020</td>
 </tr>
- <tr>
+
+<tr>
 <td>2</td>
 <td>Making aggregation and grouping for city and state</td>
 <td>28-10-2020</td>
 </tr>
- <tr>
+
+<tr>
 <td>1</td>
 <td>update the menu code</td>
 <td>28-10-2020</td>
 </tr>
- <tr>
+
+<tr>
 <td>1</td>
 <td>Adding X title and Y title for the chart</td>
 <td>4-11-2020</td>
 </tr>
- <tr>
+
+<tr>
 <td>3</td>
 <td>Making some movement on my visualization</td>
 <td>4-11-2020</td>
 </tr>
- <td>4</td>
+
+<tr>
+<td>4</td>
 <td>Complete the project and removing all comments code and checking spelling or grammaticl errors</td>
 <td>11-11-2020</td>
 </tr>
