@@ -92,7 +92,7 @@ Task 9 - complete the project and removing all comments code (estimate deliver d
 <table>
 <thead>
 <tr>
-<th>Time \nRequired \n(in Hours)</th>
+<th>Time Required (in Hours)</th>
 <th>Task</th>
 <th>estimate deliver date</th>
 </tr>
@@ -111,7 +111,7 @@ Task 9 - complete the project and removing all comments code (estimate deliver d
 <tr>
  <tr>
 <td>3</td>
-<td>make the stacked bar chart.(estimate deliver date: )</td>
+<td>make the stacked bar chart</td>
 <td>21-10-2020</td>
 </tr>
  <td>1</td>
@@ -119,28 +119,28 @@ Task 9 - complete the project and removing all comments code (estimate deliver d
 <td>21-10-2020</td>
 </tr>
  <tr>
-<td>5</td>
-<td>bim</td>
-<td>bim</td>
+<td>2</td>
+<td>Making aggregation and grouping for city and state</td>
+<td>28-10-2020</td>
 </tr>
  <tr>
-<td>6</td>
-<td>bim</td>
-<td>bim</td>
+<td>1</td>
+<td>update the menu code</td>
+<td>28-10-2020</td>
 </tr>
  <tr>
-<td>7</td>
-<td>bim</td>
-<td>bim</td>
+<td>1</td>
+<td>Adding X title and Y title for the chart</td>
+<td>4-11-2020</td>
 </tr>
  <tr>
-<td>8</td>
-<td>bim</td>
-<td>bim</td>
+<td>3</td>
+<td>Making some movement on my visualization</td>
+<td>4-11-2020</td>
 </tr>
- <td>9</td>
-<td>bim</td>
-<td>bim</td>
+ <td>4</td>
+<td>Complete the project and removing all comments code and checking spelling or grammaticl errors</td>
+<td>11-11-2020</td>
 </tr>
  
 </tbody>
