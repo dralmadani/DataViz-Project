@@ -92,7 +92,7 @@ Task 9 - complete the project and removing all comments code (estimate deliver d
 <table>
 <thead>
 <tr>
-<th>Time Required (in Hours)</th>
+<th>Time \nRequired \n(in Hours)</th>
 <th>Task</th>
 <th>estimate deliver date</th>
 </tr>
@@ -100,28 +100,23 @@ Task 9 - complete the project and removing all comments code (estimate deliver d
 <tbody>
 <tr>
 <td>1</td>
-<td>bim</td>
-<td>bim</td>
-</tr>
- <tr>
-<td>2</td>
-<td>bim</td>
-<td>bim</td>
+<td>Changing attribute: trining to change some attribute as a text to numbers to deal with it</td>
+<td>14-10-2020</td>
 </tr>
  <tr>
 <td>3</td>
-<td>bim</td>
-<td>bim</td>
+<td>adding a menu to my project with respect to the categorical and numerical data</td>
+<td>14-10-2020</td>
 </tr>
+<tr>
  <tr>
-<td>4</td>
-<td>bim</td>
-<td>bim</td>
+<td>3</td>
+<td>make the stacked bar chart.(estimate deliver date: )</td>
+<td>21-10-2020</td>
 </tr>
- <tr>
-<td>baz</td>
-<td>bim</td>
-<td>bim</td>
+ <td>1</td>
+<td>Using interactive color to the chart</td>
+<td>21-10-2020</td>
 </tr>
  <tr>
 <td>5</td>
