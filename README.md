@@ -104,21 +104,23 @@ Tring to show city name and population also, places in the USA map
 <td>1</td>
 <td>Changing attribute: trining to change some attribute as a text to numbers to deal with it</td>
 <td>14-10-2020</td>
- <th> [ x ] </th>
+ <td> :heavy_check_mark:</td>
 </tr>
  
 <tr>
 <td>3</td>
 <td>Adding a menu to my project with respect to the categorical and numerical data</td>
 <td>14-10-2020</td>
-<th> - [x] </th>
+ <td> :heavy_check_mark:</td>
 
 </tr>
 
 <tr>
 <td>3</td>
 <td>Makeing a stacked bar chart</td>
-<td>21-10-2020</td> |[x] check
+<td>21-10-2020</td> 
+<td> </td>
+
 
 </tr>
 
@@ -126,8 +128,7 @@ Tring to show city name and population also, places in the USA map
  <td>1</td>
 <td>Using interactive color to the chart</td>
 <td>21-10-2020</td>
-<li> :heavy_check_mark:</li>
-<td>[]</td>
+<td> </td>
 
 </tr>
 
@@ -135,30 +136,39 @@ Tring to show city name and population also, places in the USA map
 <td>2</td>
 <td>Making aggregation and grouping for city and state</td>
 <td>28-10-2020</td>
+ <td> </td>
+
 </tr>
 
 <tr>
 <td>1</td>
 <td>Update the menu code</td>
 <td>28-10-2020</td>
+ <td> </td>
+
 </tr>
 
 <tr>
 <td>1</td>
 <td>Adding X title and Y title for the chart</td>
 <td>4-11-2020</td>
+ <td> </td>
 </tr>
 
 <tr>
 <td>3</td>
 <td>Making some movement on my visualization</td>
 <td>4-11-2020</td>
+ <td> </td>
+
 </tr>
 
 <tr>
 <td>4</td>
 <td>Complete the project and removing all comments code and checking spelling or grammaticl errors</td>
 <td>11-11-2020</td>
+ <td> </td>
+
 </tr>
  
 </tbody>
