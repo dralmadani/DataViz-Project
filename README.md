@@ -96,6 +96,7 @@ Tring to show city name and population also, places in the USA map
  (in Hours)</th>
 <th>Task</th>
 <th>estimate deliver date</th>
+ <th>Done</th>
 </tr>
 </thead>
 <tbody>
@@ -103,6 +104,7 @@ Tring to show city name and population also, places in the USA map
 <td>1</td>
 <td>Changing attribute: trining to change some attribute as a text to numbers to deal with it</td>
 <td>14-10-2020</td>
+ <th>[x]</th>
 </tr>
  
 <tr>
@@ -115,6 +117,8 @@ Tring to show city name and population also, places in the USA map
 <td>3</td>
 <td>Makeing a stacked bar chart</td>
 <td>21-10-2020</td>
+ <th>[x]</th>
+
 </tr>
 
 <tr>
