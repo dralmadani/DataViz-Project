@@ -127,7 +127,8 @@ Tring to show city name and population also, places in the USA map
  <td>1</td>
 <td>Using interactive color to the chart</td>
 <td>21-10-2020</td>
-<th>[ ]</th>
+<li>[x] item1</li>
+<td>[]</td>
 
 </tr>
 
