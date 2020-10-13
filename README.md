@@ -104,20 +104,22 @@ Tring to show city name and population also, places in the USA map
 <td>1</td>
 <td>Changing attribute: trining to change some attribute as a text to numbers to deal with it</td>
 <td>14-10-2020</td>
- <th>[x]</th>
+ <th> [ x ] </th>
 </tr>
  
 <tr>
 <td>3</td>
 <td>Adding a menu to my project with respect to the categorical and numerical data</td>
 <td>14-10-2020</td>
+<th> - [x] </th>
+
 </tr>
 
 <tr>
 <td>3</td>
 <td>Makeing a stacked bar chart</td>
 <td>21-10-2020</td>
- <th>[x]</th>
+ <th> [ ] </th>
 
 </tr>
 
@@ -125,6 +127,8 @@ Tring to show city name and population also, places in the USA map
  <td>1</td>
 <td>Using interactive color to the chart</td>
 <td>21-10-2020</td>
+<th>[ ]</th>
+
 </tr>
 
 <tr>
