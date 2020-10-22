@@ -40,6 +40,9 @@ In the third visualization, I created a menu to let the user choose the availabl
 1st draft for Cities on the world map, later will improve to be on the USA map only
 [![image](https://user-images.githubusercontent.com/25451974/96008461-96111e00-0e0d-11eb-882e-0416c9019fb9.png)](https://vizhub.com/dralmadani/5c80609b59f64ca3b788abe0517ef96e)
 
+(Cities on the USA map)[![image](https://user-images.githubusercontent.com/25451974/96820262-9e5fef00-13f3-11eb-97e4-46bdc273ad5d.png]
+
+
 
 
 enjoy looking at this graph :)
@@ -118,29 +121,39 @@ Tring to show city name and population also, places in the USA map
  <td> :heavy_check_mark:</td>
 
 </tr>
+<tr>
+<td>2</td>
+<td>1st draft for Cities on the world map</td>
+<td>14-10-2020</td>
+ <td> :heavy_check_mark:</td>
+
+</tr>
+
+
+
 
 <tr>
 <td>3</td>
-<td>Makeing a stacked bar chart</td>
+<td>Making aggregation for city and state</td>
 <td>21-10-2020</td> 
-<td> </td>
+<td> :heavy_check_mark:</td>
 
 
 </tr>
 
 <tr>
  <td>1</td>
-<td>Using interactive color to the chart</td>
+<td>adding latitude and longitude to my dataset</td>
 <td>21-10-2020</td>
-<td> </td>
+<td> :heavy_check_mark: </td>
 
 </tr>
 
 <tr>
-<td>2</td>
-<td>Making aggregation and grouping for city and state</td>
+<td>5</td>
+<td>Point the population on the USA map</td>
 <td>28-10-2020</td>
- <td> </td>
+ <td> :heavy_check_mark: </td>
 
 </tr>
 
