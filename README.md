@@ -38,9 +38,12 @@ In the third visualization, I created a menu to let the user choose the availabl
 [![image](https://user-images.githubusercontent.com/25451974/95655127-24fefd00-0ad3-11eb-82ab-b9c049293f7c.png)](https://vizhub.com/dralmadani/8de8cbc5b9f1491b97cdb862986fdcd8)
 
 1st draft for Cities on the world map, later will improve to be on the USA map only
+
 [![image](https://user-images.githubusercontent.com/25451974/96008461-96111e00-0e0d-11eb-882e-0416c9019fb9.png)](https://vizhub.com/dralmadani/5c80609b59f64ca3b788abe0517ef96e)
 
-(Cities on the USA map)[![image](https://user-images.githubusercontent.com/25451974/96820262-9e5fef00-13f3-11eb-97e4-46bdc273ad5d.png]
+Cities on the USA map
+
+[![image](https://user-images.githubusercontent.com/25451974/96820262-9e5fef00-13f3-11eb-97e4-46bdc273ad5d.png)](https://vizhub.com/dralmadani/e9a2b6197eb14b87aafbc85a09b90fe8)
 
 
 
