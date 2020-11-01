@@ -49,8 +49,7 @@ I build a new Dataset.
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/25451974/94352453-188a9700-0033-11eb-8290-6284ca75f30c.png)
-](https://vizhub.com/dralmadani/d811f91dafdb465887040da5445d2a41?file=viz.js)
+[![image](https://user-images.githubusercontent.com/25451974/97809608-e1179780-1c3b-11eb-9d49-c2eed8ffceb9.png)](https://vizhub.com/dralmadani/538256d9d86047838d467f643a7cd303)
 
 In the second visualization, I choose the top 10 ranks  to show  the population 
 [![image](https://user-images.githubusercontent.com/25451974/95655340-8f646d00-0ad4-11eb-92e4-9f9d621b9fdb.png)](https://vizhub.com/dralmadani/ea118a8b9c9d4c8d990217c1d9a01504)
