@@ -1,3 +1,9 @@
+Dear professor 
+this is my old project under this link 
+https://github.com/dralmadani/Data_Visualization
+
+the new project is hear (this note will remove in 3 Nov 2020) 
+--------------------------
 # Data Visualization Project
 Data visualization project proposal
 
@@ -9,14 +15,34 @@ The data I propose to visualize for my project is about [the Largest Cities popu
 Originally published at [World Population Review](https://worldpopulationreview.com/us-cities)
 
 
+
+The full data I propose to visualize for my project is about [the number of completed highest structures in the world cities](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d). Building greater than 100 meater was counted in the world map. 
+
+ * Height represents the number of buildings.
+ * Color represents the city.
+
+Country boundaries from [World Atlas TopoJSON](https://github.com/topojson/world-atlas), polished for visual style, including graticules.
+
+Colors inspired by [UNHCR Streamgraph Explorer](https://github.com/unhcr/dataviz-streamgraph-explorer/blob/7f30a1ff0157e031c74837294b170641f98a9c04/src/colorScale.js).
+
+City-data from [Cities Ranked by Number of Completed Structures](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d).
+- You can find the orginal data for Cities Ranked by Number of Completed Buildings on [the skyscraper center](http://www.skyscrapercenter.com/cities)
+- I add Latitude and Longitude one by one by using [Latitude and Longitude Finder](https://www.latlong.net/)
+- I add the the date for First 150m+ Building by checkeing each city through [the skyscraper center](http://www.skyscrapercenter.com/cities) website.
+note: I am still working on latitude and longitude for every city. (last update 1 Nov  2020)
+
+I build a new Dataset 
+
+
+
 #### The attribute
  1- Rank
 <br> 2- City
-<br> 3- State
-<br> 4- usps: the Abbreviation for state
-<br> 5- pop2020: the population in 2020
-<br> 6- pop2010: the population in 2010
-<br> 7- change: the percentage between 2020 and 2010
+<br> 3- Country
+<br> 4- AllBuilding: Number of building in the city
+<br> 5- 100m: Building has 100m+
+<br> 6- 200m: Building has 200m+
+<br> 7- 300m: Building has 300m+
 <br> 8- density: the density in each city (Km square)
 <br> 9- aland: the area for each city (Km square)
 
