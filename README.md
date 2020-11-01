@@ -32,6 +32,8 @@ City-data from [Cities Ranked by Number of Completed Structures](https://gist.gi
 note: I am still working on latitude and longitude for every city. (last update 1 Nov  2020)
 
 I build a new Dataset 
+![image](https://user-images.githubusercontent.com/25451974/97807483-24b7d480-1c2f-11eb-955a-002b758b7212.png)
+
 
 
 
