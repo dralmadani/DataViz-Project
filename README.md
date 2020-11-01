@@ -30,7 +30,7 @@ I build a new Dataset.
 </div>
 
 #### The attribute
-<br> 1- Rank
+1- Rank
 <br> 2- City
 <br> 3- Country
 <br> 4- AllBuilding: Number of building in the city
