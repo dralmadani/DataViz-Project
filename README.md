@@ -48,6 +48,9 @@ I build a new Dataset.
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+<div>
+<img src="https://user-images.githubusercontent.com/25451974/97809608-e1179780-1c3b-11eb-9d49-c2eed8ffceb9.png" width="700" alt="DateHistogram" class="center"/>
+</div>
 
 [![image](https://user-images.githubusercontent.com/25451974/97809608-e1179780-1c3b-11eb-9d49-c2eed8ffceb9.png)](https://vizhub.com/dralmadani/538256d9d86047838d467f643a7cd303)
 
