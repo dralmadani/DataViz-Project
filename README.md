@@ -1,6 +1,5 @@
 Dear professor 
-this is my old project under this link 
-https://github.com/dralmadani/Data_Visualization
+<br>This is my old project [here](https://github.com/dralmadani/Data_Visualization)
 
 The new project is here (this note will remove on 3 Nov 2020 or before) 
 --------------------------
@@ -10,27 +9,21 @@ Data visualization project proposal
 ----
 ## Data
 
-
-The data I propose to visualize for my project is about [the Largest Cities population in US 2020](https://gist.github.com/dralmadani/c04f95746e2f36b040d3d764ab7b9c62)
-Originally published at [World Population Review](https://worldpopulationreview.com/us-cities)
-
-
-
-The full data I propose to visualize for my project is about [the number of completed highest structures in the world cities](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d). Building greater than 100 meters was counted on the world map. 
+1- The full data I propose to visualize for my project is about [the number of completed highest structures in the world cities](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d). Building greater than 100 meters was counted on the world map. 
 
  * Height represents the number of buildings.
  * Color represents the city.
 
-Country boundaries from [World Atlas TopoJSON](https://github.com/topojson/world-atlas), polished for visual style, including graticules.
+2- Country boundaries from [World Atlas TopoJSON](https://github.com/topojson/world-atlas), polished for visual style, including graticules.
 
-Colors inspired by [UNHCR Streamgraph Explorer](https://github.com/unhcr/dataviz-streamgraph-explorer/blob/7f30a1ff0157e031c74837294b170641f98a9c04/src/colorScale.js).
+3- Colors inspired by [UNHCR Streamgraph Explorer](https://github.com/unhcr/dataviz-streamgraph-explorer/blob/7f30a1ff0157e031c74837294b170641f98a9c04/src/colorScale.js).
 
-City-data from [Cities Ranked by Number of Completed Structures](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d).
-- You can find the orginal data for Cities Ranked by Number of Completed Buildings on [the skyscraper center](http://www.skyscrapercenter.com/cities)
+#### Structure of my data:
+<br>[Cities Ranked by Number of Completed Structures](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d).
+- You can find the original data for Cities Ranked by Number of Completed Buildings on [the skyscraper center](http://www.skyscrapercenter.com/cities)
 - I add Latitude and Longitude one by one by using [Latitude and Longitude Finder](https://www.latlong.net/)
 - I add the date for the First 150m+ Building by checking each city through [the skyscraper center](http://www.skyscrapercenter.com/cities) website.
 note: I am still working on latitude and longitude for every city. (last update 1 Nov  2020)
-
 I build a new Dataset.
 <div>
 <img src="https://user-images.githubusercontent.com/25451974/97807483-24b7d480-1c2f-11eb-955a-002b758b7212.png" width="100"/>
@@ -49,8 +42,6 @@ I build a new Dataset.
 <br> 9- lat: Latitude
 <br> 9- lng: Longitude
 <br> 9- first150m: the year of the first building higher than 150m+
-
-
 
 
 ----
