@@ -2,7 +2,7 @@ Dear professor
 this is my old project under this link 
 https://github.com/dralmadani/Data_Visualization
 
-the new project is hear (this note will remove in 3 Nov 2020) 
+The new project is here (this note will remove on 3 Nov 2020 or before) 
 --------------------------
 # Data Visualization Project
 Data visualization project proposal
@@ -16,7 +16,7 @@ Originally published at [World Population Review](https://worldpopulationreview.
 
 
 
-The full data I propose to visualize for my project is about [the number of completed highest structures in the world cities](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d). Building greater than 100 meater was counted in the world map. 
+The full data I propose to visualize for my project is about [the number of completed highest structures in the world cities](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d). Building greater than 100 meters was counted on the world map. 
 
  * Height represents the number of buildings.
  * Color represents the city.
@@ -28,24 +28,27 @@ Colors inspired by [UNHCR Streamgraph Explorer](https://github.com/unhcr/dataviz
 City-data from [Cities Ranked by Number of Completed Structures](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d).
 - You can find the orginal data for Cities Ranked by Number of Completed Buildings on [the skyscraper center](http://www.skyscrapercenter.com/cities)
 - I add Latitude and Longitude one by one by using [Latitude and Longitude Finder](https://www.latlong.net/)
-- I add the the date for First 150m+ Building by checkeing each city through [the skyscraper center](http://www.skyscrapercenter.com/cities) website.
+- I add the date for the First 150m+ Building by checking each city through [the skyscraper center](http://www.skyscrapercenter.com/cities) website.
 note: I am still working on latitude and longitude for every city. (last update 1 Nov  2020)
 
-I build a new Dataset 
-![image](https://user-images.githubusercontent.com/25451974/97807483-24b7d480-1c2f-11eb-955a-002b758b7212.png =0.2x)
-
-
+I build a new Dataset.
+<div>
+<img src="https://user-images.githubusercontent.com/25451974/97807483-24b7d480-1c2f-11eb-955a-002b758b7212.png" width="100"/>
+</div>
 
 #### The attribute
- 1- Rank
+<br> 1- Rank
 <br> 2- City
 <br> 3- Country
 <br> 4- AllBuilding: Number of building in the city
 <br> 5- 100m: Building has 100m+
 <br> 6- 200m: Building has 200m+
 <br> 7- 300m: Building has 300m+
-<br> 8- density: the density in each city (Km square)
-<br> 9- aland: the area for each city (Km square)
+<br> 8- TelecomTowers: Radio masts and towers are typically tall structures designed to support antennas for telecommunications and broadcasting
+<br> 9- AllStructures: All structures
+<br> 9- lat: Latitude
+<br> 9- lng: Longitude
+<br> 9- first150m: the year of the first building higher than 150m+
 
 
 
