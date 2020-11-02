@@ -131,49 +131,55 @@ Tring to show city name and population also, places in the USA map
 <tbody>
 <tr>
 <td>1</td>
-<td>Changing attribute: trining to change some attribute as a text to numbers to deal with it</td>
+<td>Changint a few attribute type from text to numbers to deal with it</td>
 <td>14-10-2020</td>
  <td> :heavy_check_mark:</td>
 </tr>
  
+
+<tr>
+<td>4</td>
+<td>Adding the date for first buildig in the city</td>
+<td>21-10-2020</td>
+ <td> :heavy_check_mark:</td>
+ </tr>
+
+
 <tr>
 <td>3</td>
-<td>Adding a menu to my project with respect to the categorical and numerical data</td>
+<td>Making histogram</td>
 <td>14-10-2020</td>
  <td> :heavy_check_mark:</td>
 
 </tr>
 <tr>
-<td>2</td>
-<td>1st draft for Cities on the world map</td>
-<td>14-10-2020</td>
+<td>4</td>
+<td>Adding latidute and longtute to my dataset</td>
+<td>21-10-2020</td>
  <td> :heavy_check_mark:</td>
 
 </tr>
 
 
-
-
 <tr>
-<td>3</td>
-<td>Making aggregation for city and state</td>
+<td>4</td>
+<td>Making bubble map for my data</td>
 <td>21-10-2020</td> 
 <td> :heavy_check_mark:</td>
 
-
 </tr>
 
 <tr>
- <td>1</td>
-<td>adding latitude and longitude to my dataset</td>
-<td>21-10-2020</td>
+ <td>2</td>
+<td>Changing the Bubble to Mountain (triangle)</td>
+<td>28-10-2020</td>
 <td> :heavy_check_mark: </td>
 
 </tr>
 
 <tr>
 <td>5</td>
-<td>Point the population on the USA map</td>
+<td>Making a multi-view ( merging histogram and the map in one view)</td>
 <td>28-10-2020</td>
  <td> :heavy_check_mark: </td>
 
