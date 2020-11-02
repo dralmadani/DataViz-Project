@@ -96,16 +96,16 @@ The following tasks and questions will drive the visualization and interaction d
 
 <br><br><br>
 
-![01TopCitiesSketching](https://user-images.githubusercontent.com/25451974/94355734-a3c85480-0054-11eb-87f0-bb188d87a195.jpeg)
+![DV_01](https://user-images.githubusercontent.com/25451974/97880707-7fb10080-1cef-11eb-8d8c-ce90e8562814.jpeg)
 <br>This is the first sketching about my project and I hope those sketches drive the visualization.
 
-![02TopCitiesSketching](https://user-images.githubusercontent.com/25451974/94355741-acb92600-0054-11eb-9547-0d33945ba4fe.jpeg)
+![DV_02](https://user-images.githubusercontent.com/25451974/97880931-bf77e800-1cef-11eb-9342-53ba0200412a.jpeg)
 <br>
-General visualization for top cities by population then top states having those cities 
+General visualization for cities that have skyscrapers on the world.
 
-![03TopCitiesSketching](https://user-images.githubusercontent.com/25451974/94355743-b17dda00-0054-11eb-8ab7-86bc8c2504fc.jpeg)
+![DV_03](https://user-images.githubusercontent.com/25451974/97881123-fe0da280-1cef-11eb-9c25-d27eb88aac32.jpeg)
 <br>
-Tring to show city name and population also, places in the USA map
+Tried to know some positive point to do and some difficulties YOU may faces during the project.
 
 ----
 ## Open Questions
