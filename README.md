@@ -65,7 +65,12 @@ In the third visualization, I created a menu to let the user choose the availabl
 Cities on the world map show the number of skyscraper
 [![image](https://user-images.githubusercontent.com/25451974/97822920-62dfe300-1c85-11eb-861a-5b1d8a78cc91.png)](https://vizhub.com/dralmadani/7fe28642bfcc4ca882f678e0295910f6)
 
-Cities on the USA map
+In this visualization, I created a multi-view by merging the histogram and the world map into one view
+[![image](https://user-images.githubusercontent.com/25451974/98036145-87ec6700-1de7-11eb-81ca-8214d3db4c62.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
+
+
+Multiple views with brushing. This will help to see when a city build its first skyscraper.
+
 
 [![image](https://user-images.githubusercontent.com/25451974/96820262-9e5fef00-13f3-11eb-97e4-46bdc273ad5d.png)](https://vizhub.com/dralmadani/e9a2b6197eb14b87aafbc85a09b90fe8)
 
@@ -76,16 +81,21 @@ enjoy looking at this graph :)
 
 This visualization focuses on
 - City
-- State
-- population 2010: the population in 2020
-- population 2020: the population in 2020
-- Density and Area
+- The number of skyscrapers
+- The first skyscraper in the city (year)
 
 ----
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
+  * How many skyscrapers in a city?
+  * Whare are the most skyscrapers in the world? 
+  * When the city build the fist skyscraper ?
+  * When the world had an increase in the building of skyscrapers? 
+  * etc
+  
+  
   * What are the top 200 largest cities in the USA in 2020 by population?
   * What are the top ten largest cities in the US by population in 2020 by population?
   * What are the top ten largest cities in the US by population in 2020 by density?
@@ -113,11 +123,10 @@ General visualization for cities that have skyscrapers on the world.
 Tried to know some positive point to do and some difficulties YOU may faces during the project.
 
 ----
-## Open Questions
+## future works
+- add a menu to classified the skyscraper in the cities.
 
 
-  - I'm not sure where to get the geographic shapes to build a map from this data
-  - I'm not sure how to get movement visualization to show the difference between the population from 2010 to 2020 for each city
 
 ----
 ## Schedule of Deliverables
