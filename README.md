@@ -6,6 +6,12 @@ The new project is here (this note will remove on 3 Nov 2020 or before)
 # Data Visualization Project
 Data visualization project proposal
 
+<div>
+<a href="https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5"> <p  align="center">
+<img src="https://user-images.githubusercontent.com/25451974/98025404-9fbbef00-1dd7-11eb-8394-f5ec6e8b8bb6.jpg" width="500" />
+ </p> </a>
+</div>
+
 ----
 ## Data
 
@@ -18,13 +24,12 @@ Data visualization project proposal
 
 3- Colors inspired by [UNHCR Streamgraph Explorer](https://github.com/unhcr/dataviz-streamgraph-explorer/blob/7f30a1ff0157e031c74837294b170641f98a9c04/src/colorScale.js).
 
-#### Structure of my data:
-<br>[Cities Ranked by Number of Completed Structures](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d).
+### Structure of my data:
+[Cities Ranked by Number of Completed Structures](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d).
 - You can find the original data for Cities Ranked by Number of Completed Buildings on [the skyscraper center](http://www.skyscrapercenter.com/cities)
 - I add Latitude and Longitude one by one by using [Latitude and Longitude Finder](https://www.latlong.net/)
 - I add the date for the First 150m+ Building by checking each city through [the skyscraper center](http://www.skyscrapercenter.com/cities) website.
-note: I am still working on latitude and longitude for every city. (last update 1 Nov  2020)
-I build a new Dataset.
+I build a new Dataset with latitude and longitude and the year of the first 150m building in each city.
 <div>
 <img src="https://user-images.githubusercontent.com/25451974/97807483-24b7d480-1c2f-11eb-955a-002b758b7212.png" width="100"/>
 </div>
