@@ -3,16 +3,29 @@
 AbdulSalam Almadani - Data Visualization - WPI  ( Fall 2020 )
 ----
 
-
-
-
 <div>
 <a href="https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5"> <p  align="center">
 <img src="https://user-images.githubusercontent.com/25451974/98025404-9fbbef00-1dd7-11eb-8394-f5ec6e8b8bb6.jpg" width="500" />
  </p> </a>
 </div>
 
-The data I visualized for my project is the WhoGov dataset provided by Nuffield College, University of Oxford here. The dataset contains information about more than 50,000 cabinet members from 177 countries, spanning July 1966 - July 2016. There is a separate entry for each cabinet member, from each country, for each year. Each entry contains information such as party affiliation, gender, age and military affiliation.
+## Table of contents
+
+<table>
+<thead>
+<tr>
+<th>Table of contents</th>
+</tr>
+</thead>
+<tbody>
+ 
+ <tr>Data</tr>
+<tr>Questions</tr>
+<tr>Sketches</tr>
+<tr>Project Dashboard</tr>
+<tr>Project Video</tr>
+</tbody>
+</table>
 
 ----
 ## Data
