@@ -1,8 +1,4 @@
-Dear professor 
-<br>This is my old project [here](https://github.com/dralmadani/Data_Visualization)
 
-The new project is here (this note will remove on 3 Nov 2020 or before) 
---------------------------
 # Data Visualization Project
 Data visualization project proposal
 
