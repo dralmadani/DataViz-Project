@@ -95,10 +95,8 @@ The idea behind these sketches is trying to imagine what some visualizations mig
 <br>I made some exploratory visualizations in the early stage of the project for the purpose of data investigation. 
 <br>I've made a few visualizations to investigate the results. A brief overview of these visualizations is given below:
 
-For example, as shown in the picture below, the line charts show the information of district 21, 33, and 42. The most negative slope of district 21 tells us that even though, there are many new HIV cases in district 21 at the beginning of the year 2020, this number decreases dramatically.
 
-
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I have created a proof of concept visualization of this data. 
 [![image](https://user-images.githubusercontent.com/25451974/98057244-d6156080-1e0f-11eb-834e-514cbcb1fb5b.png)](https://vizhub.com/dralmadani/538256d9d86047838d467f643a7cd303)
 
 Question being answered:
