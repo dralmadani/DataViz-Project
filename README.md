@@ -29,7 +29,9 @@ AbdulSalam Almadani - Data Visualization - WPI  ( Fall 2020 )
 </tbody>
 </table>
 
+
 ----
+
 ## Data
 The data I visualized for my project is about [the number of completed highest structures in the world cities](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d). The dataset contains information from 1900 to 2020 for skyscrapers around the world. Building higher than 150 meters was counted.  There is a separate entry for each city and each skyscraper on the original dataset.
 
@@ -68,7 +70,6 @@ The following tasks and questions will drive the visualization and interaction d
   * When did the world has an increase in the building of skyscrapers?
   * etc
   
-  
 ----  
 ## Sketches
 The idea behind these sketches is trying to imagine what some visualizations might look like. 
@@ -89,9 +90,22 @@ The idea behind these sketches is trying to imagine what some visualizations mig
 
 ----
 ## Visualizations
+<br>All visualization images are clickable which links to the [VizHub](https://vizhub.com/dralmadani) website for the real productions.
+
+<br>I made some exploratory visualizations in the early stage of the project for the purpose of data investigation. 
+<br>I've made a few visualizations to investigate the results. A brief overview of these visualizations is given below:
+
+For example, as shown in the picture below, the line charts show the information of district 21, 33, and 42. The most negative slope of district 21 tells us that even though, there are many new HIV cases in district 21 at the beginning of the year 2020, this number decreases dramatically.
+
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 [![image](https://user-images.githubusercontent.com/25451974/98057244-d6156080-1e0f-11eb-834e-514cbcb1fb5b.png)](https://vizhub.com/dralmadani/538256d9d86047838d467f643a7cd303)
+
+Question being answered:
+<blockquote>
+  * When did the city build the first skyscraper?
+</blockquote>
+The above histogram shows that the total number of building in a city and the year of building the first skyscraper in that city
 
 
 Cities on the world map show the number of skyscraper
