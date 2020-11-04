@@ -39,7 +39,7 @@ I build a new Dataset with latitude and longitude and the year of the first 150m
 <br> 2- City
 <br> 3- Country
 <br> 4- AllBuilding: Number of building in the city
-<br> 5- 100m: Building has 100m+
+<br> 5- 150m: Building has 150m+
 <br> 6- 200m: Building has 200m+
 <br> 7- 300m: Building has 300m+
 <br> 8- TelecomTowers: Radio masts and towers are typically tall structures designed to support antennas for telecommunications and broadcasting
@@ -64,6 +64,8 @@ In this visualization, I created a multi-view by merging the histogram and the w
 
 
 Multiple views with brushing. This will help to see when a city build its first skyscraper.
+[![ multi-view](https://user-images.githubusercontent.com/25451974/98118821-c7fc2a00-1e79-11eb-9359-0ea938d61bec.jpeg)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
+
 
 
 
@@ -75,12 +77,14 @@ Multiple views with brushing. This will help to see when a city build its first 
 ----
 ## Questions & Tasks
 
+
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
   * How many skyscrapers in a city?
   * Whare are the most skyscrapers in the world? 
-  * When the city build the fist skyscraper ?
-  * When the world had an increase in the building of skyscrapers? 
+  * Where are the most skyscrapers in the world?
+  * When did the city build the first skyscraper?
+  * When did the world has an increase in the building of skyscrapers?
   * etc
   
   
