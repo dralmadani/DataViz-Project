@@ -19,10 +19,13 @@ AbdulSalam Almadani - Data Visualization - WPI  ( Fall 2020 )
 </thead>
 <tbody>
 <tr><td>Data</td></tr>
+<tr><td>Structure of my data</td></tr> 
 <tr><td>Questions</td></tr>
 <tr><td>Sketches</td></tr>
 <tr><td>Project Dashboard</td></tr>
 <tr><td>Project Video</td></tr>
+<tr><td>Schedule of Deliverables</td></tr>
+ 
 </tbody>
 </table>
 
@@ -30,7 +33,7 @@ AbdulSalam Almadani - Data Visualization - WPI  ( Fall 2020 )
 ## Data
 The data I visualized for my project is about [the number of completed highest structures in the world cities](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d). The dataset contains information from 1900 to 2020 for skyscrapers around the world. Building higher than 150 meters was counted.  There is a separate entry for each city and each skyscraper on the original dataset.
 
-### Structure of my data:
+## Structure of my data:
 [Cities Ranked by Number of Completed Structures](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d).
 - You can find the original data for Cities Ranked by Number of Completed Buildings on [the skyscraper center](http://www.skyscrapercenter.com/cities)
 - I add Latitude and Longitude one by one by using [Latitude and Longitude Finder](https://www.latlong.net/)
@@ -45,39 +48,18 @@ I build a new Dataset with latitude and longitude and the year of the first 150m
 <br> 2- City
 <br> 3- Country
 <br> 4- AllBuilding: Number of building in the city
-<br> 5- 150m: Building has 150m+
-<br> 6- 200m: Building has 200m+
-<br> 7- 300m: Building has 300m+
-<br> 8- TelecomTowers: Radio masts and towers are typically tall structures designed to support antennas for telecommunications and broadcasting
-<br> 9- AllStructures: All structures
-<br> 10- lat: Latitude
-<br> 11- lng: Longitude
-<br> 12- first150m: the year of the first building higher than 150m+
-
-
-----
-## Prototypes
-
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
-[![image](https://user-images.githubusercontent.com/25451974/98057244-d6156080-1e0f-11eb-834e-514cbcb1fb5b.png)](https://vizhub.com/dralmadani/538256d9d86047838d467f643a7cd303)
-
-
-Cities on the world map show the number of skyscraper
-[![image](https://user-images.githubusercontent.com/25451974/97822920-62dfe300-1c85-11eb-861a-5b1d8a78cc91.png)](https://vizhub.com/dralmadani/7fe28642bfcc4ca882f678e0295910f6)
-
-In this visualization, I created a multi-view by merging the histogram and the world map into one view
-[![image](https://user-images.githubusercontent.com/25451974/98057145-92225b80-1e0f-11eb-8f5c-609ceaaa7dab.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
-
-
-Multiple views with brushing. This will help to see when a city build its first skyscraper.
-[![ multi-view](https://user-images.githubusercontent.com/25451974/98118821-c7fc2a00-1e79-11eb-9359-0ea938d61bec.jpeg)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
-
-[![image](https://user-images.githubusercontent.com/25451974/98137778-5ed3e100-1e90-11eb-8de4-8e947282cff7.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
-
-
+<br> 5- 100m: Building has 100m+
+<br> 6- 150m: Building has 150m+
+<br> 7- 200m: Building has 200m+
+<br> 8- 300m: Building has 300m+
+<br> 9- TelecomTowers: Radio masts and towers are typically tall structures designed to support antennas for telecommunications and broadcasting
+<br> 10- AllStructures: All structures
+<br> 11- lat: Latitude
+<br> 12- lng: Longitude
+<br> 13- first150m: the year of the first building higher than 150m+
 
 ----
-## Questions & Tasks
+## Questions
 
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
@@ -106,6 +88,25 @@ General visualization for cities that have skyscrapers on the world.
 ![DV_03](https://user-images.githubusercontent.com/25451974/97881123-fe0da280-1cef-11eb-9c25-d27eb88aac32.jpeg)
 <br>
 Tried to know some positive point to do and some difficulties YOU may faces during the project.
+
+----
+## Visualizations
+
+I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+[![image](https://user-images.githubusercontent.com/25451974/98057244-d6156080-1e0f-11eb-834e-514cbcb1fb5b.png)](https://vizhub.com/dralmadani/538256d9d86047838d467f643a7cd303)
+
+
+Cities on the world map show the number of skyscraper
+[![image](https://user-images.githubusercontent.com/25451974/97822920-62dfe300-1c85-11eb-861a-5b1d8a78cc91.png)](https://vizhub.com/dralmadani/7fe28642bfcc4ca882f678e0295910f6)
+
+In this visualization, I created a multi-view by merging the histogram and the world map into one view
+[![image](https://user-images.githubusercontent.com/25451974/98057145-92225b80-1e0f-11eb-8f5c-609ceaaa7dab.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
+
+
+Multiple views with brushing. This will help to see when a city build its first skyscraper.
+[![ multi-view](https://user-images.githubusercontent.com/25451974/98118821-c7fc2a00-1e79-11eb-9359-0ea938d61bec.jpeg)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
+
+[![image](https://user-images.githubusercontent.com/25451974/98137778-5ed3e100-1e90-11eb-8de4-8e947282cff7.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
 
 ----
 ## Schedule of Deliverables
