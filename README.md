@@ -40,9 +40,9 @@ I build a new Dataset with latitude and longitude and the year of the first 150m
 <br> 7- 300m: Building has 300m+
 <br> 8- TelecomTowers: Radio masts and towers are typically tall structures designed to support antennas for telecommunications and broadcasting
 <br> 9- AllStructures: All structures
-<br> 9- lat: Latitude
-<br> 9- lng: Longitude
-<br> 9- first150m: the year of the first building higher than 150m+
+<br> 10- lat: Latitude
+<br> 11- lng: Longitude
+<br> 12- first150m: the year of the first building higher than 150m+
 
 
 ----
