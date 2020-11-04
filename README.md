@@ -66,11 +66,7 @@ In this visualization, I created a multi-view by merging the histogram and the w
 Multiple views with brushing. This will help to see when a city build its first skyscraper.
 [![ multi-view](https://user-images.githubusercontent.com/25451974/98118821-c7fc2a00-1e79-11eb-9359-0ea938d61bec.jpeg)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
 
-
-
-
-
-
+[![image](https://user-images.githubusercontent.com/25451974/98137778-5ed3e100-1e90-11eb-8de4-8e947282cff7.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
 
 
 
@@ -107,12 +103,6 @@ General visualization for cities that have skyscrapers on the world.
 Tried to know some positive point to do and some difficulties YOU may faces during the project.
 
 ----
-## future works
-- add a menu to classified the skyscraper in the cities.
-
-
-
-----
 ## Schedule of Deliverables
 
 <table>
@@ -122,95 +112,102 @@ Tried to know some positive point to do and some difficulties YOU may faces duri
  Required
  (in Hours)</th>
 <th>Task</th>
-<th>estimate deliver date</th>
+<th>Estimate deliver date</th>
  <th>Done</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>1</td>
-<td>Changint a few attribute type from text to numbers to deal with it</td>
+<td>2</td>
+<td>Searching for a good dataset</td>
 <td>14-10-2020</td>
  <td> :heavy_check_mark:</td>
 </tr>
  
 
 <tr>
-<td>4</td>
-<td>Adding the date for first buildig in the city</td>
-<td>21-10-2020</td>
+<td>1</td>
+<td>Changing some attributes type from text to number to deal with it</td>
+<td>14-10-2020</td>
  <td> :heavy_check_mark:</td>
  </tr>
 
 
 <tr>
 <td>3</td>
-<td>Making histogram</td>
+ <td>Adding the date for the first building in the city</td>
 <td>14-10-2020</td>
  <td> :heavy_check_mark:</td>
 
 </tr>
 <tr>
 <td>4</td>
-<td>Adding latidute and longtute to my dataset</td>
+<td>Making a histogram</td>
+<td>21-10-2020</td>
+ <td> :heavy_check_mark:</td>
+
+</tr>
+<tr>
+<td>1</td>
+<td>Adding X title and Y title for the chart</td>
 <td>21-10-2020</td>
  <td> :heavy_check_mark:</td>
 
 </tr>
 
-
 <tr>
-<td>4</td>
-<td>Making bubble map for my data</td>
-<td>21-10-2020</td> 
+<td>3</td>
+ <td>Adding latitude and longitude to my dataset</td>
+<td>28-10-2020</td> 
 <td> :heavy_check_mark:</td>
 
 </tr>
 
 <tr>
- <td>2</td>
-<td>Changing the Bubble to Mountain (triangle)</td>
+ <td>3</td>
+<td>Making a bubble map for my data</td>
 <td>28-10-2020</td>
 <td> :heavy_check_mark: </td>
 
 </tr>
 
 <tr>
-<td>5</td>
-<td>Making a multi-view ( merging histogram and the map in one view)</td>
+<td>2</td>
+<td>Changing the bubble to mountain (Triangle)</td>
 <td>28-10-2020</td>
  <td> :heavy_check_mark: </td>
 
 </tr>
 
 <tr>
-<td>1</td>
-<td>Update the menu code</td>
-<td>28-10-2020</td>
- <td> </td>
+<td>4</td>
+<td>Making a multi-view ( merging the histogram and the map in one view)</td>
+<td>4-11-2020</td>
+ <td> :heavy_check_mark:</td>
 
 </tr>
 
-<tr>
-<td>1</td>
-<td>Adding X title and Y title for the chart</td>
-<td>4-11-2020</td>
- <td> </td>
-</tr>
 
 <tr>
-<td>3</td>
-<td>Making some movement on my visualization</td>
+<td>2</td>
+<td>Record a vidio for the project and uploded in youtube</td>
 <td>4-11-2020</td>
- <td> </td>
+ <td> :heavy_check_mark:</td>
 
 </tr>
 
 <tr>
 <td>4</td>
-<td>Complete the project and removing all comments code and checking spelling or grammaticl errors</td>
-<td>11-11-2020</td>
- <td> </td>
+<td>Record a video for the project and uploaded to youtube</td>
+<td>4-11-2020</td>
+ <td> :heavy_check_mark:</td>
+
+</tr>
+<tr>
+<td>1</td>
+<td>Project completion and closing</td>
+<td>5-11-2020</td>
+ <td> :heavy_check_mark:</td>
 
 </tr>
  
