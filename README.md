@@ -77,17 +77,19 @@ The following tasks and questions will drive the visualization and interaction d
 [![image](https://user-images.githubusercontent.com/25451974/98137051-91310e80-1e8f-11eb-9d1d-ac3f7a7ad4a5.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
 
 <br><br><br>
-
-![DV_01](https://user-images.githubusercontent.com/25451974/97880707-7fb10080-1cef-11eb-8d8c-ce90e8562814.jpeg)
-<br>This is the first sketching about my project and I hope those sketches drive the visualization.
-
-![DV_02](https://user-images.githubusercontent.com/25451974/97880931-bf77e800-1cef-11eb-9342-53ba0200412a.jpeg)
-<br>
+The idea behind these sketches is trying to imagine what some visualizations might look like. 
+<a href="https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5">
+       <img src="https://user-images.githubusercontent.com/25451974/97880707-7fb10080-1cef-11eb-8d8c-ce90e8562814.jpeg" width="400" height="500"/>
+</a>
+                               
 General visualization for cities that have skyscrapers on the world.
-
-![DV_03](https://user-images.githubusercontent.com/25451974/97881123-fe0da280-1cef-11eb-9c25-d27eb88aac32.jpeg)
-<br>
+<a href="https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5">
+       <img src="https://user-images.githubusercontent.com/25451974/97880931-bf77e800-1cef-11eb-9342-53ba0200412a.jpeg" width="400" height="500"/>
+</a>
 Tried to know some positive point to do and some difficulties YOU may faces during the project.
+<a href="https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5">
+       <img src="https://user-images.githubusercontent.com/25451974/97881123-fe0da280-1cef-11eb-9c25-d27eb88aac32.jpeg" width="400" height="500"/>
+</a>
 
 ----
 ## Visualizations
