@@ -18,12 +18,11 @@ AbdulSalam Almadani - Data Visualization - WPI  ( Fall 2020 )
 </tr>
 </thead>
 <tbody>
- 
- <tr>Data</tr>
-<tr>Questions</tr>
-<tr>Sketches</tr>
-<tr>Project Dashboard</tr>
-<tr>Project Video</tr>
+<tr><td>Data</td></tr>
+<tr><td>Questions</td></tr>
+<tr><td>Sketches</td></tr>
+<tr><td>Project Dashboard</td></tr>
+<tr><td>Project Video</td></tr>
 </tbody>
 </table>
 
