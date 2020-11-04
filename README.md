@@ -61,7 +61,6 @@ I build a new Dataset with latitude and longitude and the year of the first 150m
 ----
 ## Questions
 
-
 The following tasks and questions will drive the visualization and interaction decisions for this project:
   * How many skyscrapers in a city?
   * Whare are the most skyscrapers in the world? 
@@ -72,15 +71,15 @@ The following tasks and questions will drive the visualization and interaction d
   
 ----  
 ## Sketches
-
+The idea behind these sketches is trying to imagine what some visualizations might look like. 
+<br>
 [![image](https://user-images.githubusercontent.com/25451974/98137051-91310e80-1e8f-11eb-9d1d-ac3f7a7ad4a5.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
 
-<br><br><br>
-The idea behind these sketches is trying to imagine what some visualizations might look like. 
+<br><br>
+
 <a href="https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5">
        <img src="https://user-images.githubusercontent.com/25451974/97880707-7fb10080-1cef-11eb-8d8c-ce90e8562814.jpeg" width="300" height="400"/>
-</a>
-                               
+</a>                              
 <a href="https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5">
        <img src="https://user-images.githubusercontent.com/25451974/97880931-bf77e800-1cef-11eb-9342-53ba0200412a.jpeg" width="300" height="400"/>
 </a>
