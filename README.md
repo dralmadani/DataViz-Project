@@ -56,9 +56,6 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 [![image](https://user-images.githubusercontent.com/25451974/98057244-d6156080-1e0f-11eb-834e-514cbcb1fb5b.png)](https://vizhub.com/dralmadani/538256d9d86047838d467f643a7cd303)
 
 
-In the third visualization, I created a menu to let the user choose the available years, density and land area
-[![image](https://user-images.githubusercontent.com/25451974/95655127-24fefd00-0ad3-11eb-82ab-b9c049293f7c.png)](https://vizhub.com/dralmadani/8de8cbc5b9f1491b97cdb862986fdcd8)
-
 Cities on the world map show the number of skyscraper
 [![image](https://user-images.githubusercontent.com/25451974/97822920-62dfe300-1c85-11eb-861a-5b1d8a78cc91.png)](https://vizhub.com/dralmadani/7fe28642bfcc4ca882f678e0295910f6)
 
@@ -69,17 +66,11 @@ In this visualization, I created a multi-view by merging the histogram and the w
 Multiple views with brushing. This will help to see when a city build its first skyscraper.
 
 
-[![image](https://user-images.githubusercontent.com/25451974/96820262-9e5fef00-13f3-11eb-97e4-46bdc273ad5d.png)](https://vizhub.com/dralmadani/e9a2b6197eb14b87aafbc85a09b90fe8)
 
 
 
 
-enjoy looking at this graph :)
 
-This visualization focuses on
-- City
-- The number of skyscrapers
-- The first skyscraper in the city (year)
 
 ----
 ## Questions & Tasks
