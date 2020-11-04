@@ -66,7 +66,7 @@ Cities on the world map show the number of skyscraper
 [![image](https://user-images.githubusercontent.com/25451974/97822920-62dfe300-1c85-11eb-861a-5b1d8a78cc91.png)](https://vizhub.com/dralmadani/7fe28642bfcc4ca882f678e0295910f6)
 
 In this visualization, I created a multi-view by merging the histogram and the world map into one view
-[![image](https://user-images.githubusercontent.com/25451974/98036145-87ec6700-1de7-11eb-81ca-8214d3db4c62.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
+[![image](https://user-images.githubusercontent.com/25451974/98057145-92225b80-1e0f-11eb-8f5c-609ceaaa7dab.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
 
 
 Multiple views with brushing. This will help to see when a city build its first skyscraper.
