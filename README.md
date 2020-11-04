@@ -1,6 +1,7 @@
 
 # Data Visualization Project
 AbdulSalam Almadani - Data Visualization - WPI  ( Fall 2020 )
+----
 
 
 
@@ -15,15 +16,7 @@ The data I visualized for my project is the WhoGov dataset provided by Nuffield 
 
 ----
 ## Data
-
-1- The full data I propose to visualize for my project is about [the number of completed highest structures in the world cities](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d). Building greater than 100 meters was counted on the world map. 
-
- * Height represents the number of buildings.
- * Color represents the rank.
-
-2- Country boundaries from [World Atlas TopoJSON](https://github.com/topojson/world-atlas), polished for visual style, including graticules.
-
-3- Colors inspired by [UNHCR Streamgraph Explorer](https://github.com/unhcr/dataviz-streamgraph-explorer/blob/7f30a1ff0157e031c74837294b170641f98a9c04/src/colorScale.js).
+The data I visualized for my project is about [the number of completed highest structures in the world cities](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d). The dataset contains information from 1900 to 2020 for skyscrapers around the world. Building higher than 150 meters was counted.  There is a separate entry for each city and each skyscraper on the original dataset.
 
 ### Structure of my data:
 [Cities Ranked by Number of Completed Structures](https://gist.github.com/dralmadani/aa84bd8088038464b94ef3c454b30f4d).
