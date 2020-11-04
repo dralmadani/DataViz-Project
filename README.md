@@ -83,7 +83,7 @@ The following tasks and questions will drive the visualization and interaction d
 ----  
 ## Sketches
 
-[![image](https://user-images.githubusercontent.com/25451974/98137051-91310e80-1e8f-11eb-9d1d-ac3f7a7ad4a5.png](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
+[![image](https://user-images.githubusercontent.com/25451974/98137051-91310e80-1e8f-11eb-9d1d-ac3f7a7ad4a5.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
 
 <br><br><br>
 
