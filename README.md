@@ -131,7 +131,7 @@ You can also know when each city built its first skyscraper. It also shows you w
 <br><br> <b>I hope you enjoy in this project. moreover, you go fork and try my project on [Vizhub](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5) or downlode the code and work on it.</b>
 
 ## Project Video
-[Video about the project](https://youtu.be/xBM6ldlKFiw)
+[Video about the project](https://youtu.be/JIZPbc6whFI)
 
 ----
 ## Schedule of Deliverables
