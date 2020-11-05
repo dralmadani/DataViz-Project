@@ -100,6 +100,10 @@ Question being answered:
 </blockquote>
 The above histogram shows that the total number of building in a city and the year of building the first skyscraper in that city
 
+[![image](https://user-images.githubusercontent.com/25451974/98201215-2ae2d500-1efd-11eb-8c10-08a1bda22b3a.png)](https://vizhub.com/dralmadani/79f33b31f5cb4e8292b87a3615428420)
+The above chart shows the total number of building in each country.
+
+
 
 Cities on the world map show the number of skyscraper
 [![image](https://user-images.githubusercontent.com/25451974/97822920-62dfe300-1c85-11eb-861a-5b1d8a78cc91.png)](https://vizhub.com/dralmadani/7fe28642bfcc4ca882f678e0295910f6)
