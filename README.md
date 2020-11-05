@@ -109,7 +109,7 @@ The above histogram shows that the total number of building in a city and the ye
 [![image](https://user-images.githubusercontent.com/25451974/97822920-62dfe300-1c85-11eb-861a-5b1d8a78cc91.png)](https://vizhub.com/dralmadani/7fe28642bfcc4ca882f678e0295910f6)
 
 The above map shows triangles (mountains) on cities which have skyscrapers. The higher mountains mean a higher number of skyscrapers in the city.
-It can be clear that New York City has a higher number of skyscrapers as it has the highest triangle and this visulaisation answer the question
+It can be clear that New York City has a higher number of skyscrapers as it has the highest triangle and this visualization answer the question
 <blockquote>
   Where are most skyscrapers in the world? 
 </blockquote>
