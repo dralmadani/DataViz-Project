@@ -93,8 +93,10 @@ The idea behind these sketches is trying to imagine what some visualizations mig
 <br>I made some exploratory visualizations in the early stage of the project for the purpose of data investigation. 
 <br>I've made a few visualizations to investigate the results. A brief overview of these visualizations is given below:
 
+I've created three proof of concept visualizations of the data set, shown below.
 
-I have created a proof of concept visualization of this data. 
+
+I have created some proof of concept visualization of the dataset, shown below.
 [![image](https://user-images.githubusercontent.com/25451974/98057244-d6156080-1e0f-11eb-834e-514cbcb1fb5b.png)](https://vizhub.com/dralmadani/538256d9d86047838d467f643a7cd303)
 
 Question being answered:
