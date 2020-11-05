@@ -116,11 +116,13 @@ It can be clear that New York City has a higher number of skyscrapers as it has 
 the total number of building in each city and the year of building the first skyscraper in that city.
 In this visualization, I created a multi-view by merging the histogram and the world map into one view.
 
-This visulaisation show you a multiple view with brushing. you can intract with the map to see the power of brushing and answer all question I have make before. this multiple view merge between the histgram and the world map. you can easly find the number of skyscraper for each city by point on the city. Also, you can know when each city build the first skyscraper and when the whole world has an increase in the building of skyscrapers by using brushing and move it right or life on the hestorgram. it can be clearly find out thrugh 1900 - 1940 only USA has the skyscraper at that time. also, you can know when each city inter skyscraper clup. 
 
 [![multi-map](https://user-images.githubusercontent.com/25451974/98189214-7c319b00-1ee2-11eb-824f-5c6836bd09ba.gif)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
+This visulaisation show you a multiple view with brushing. you can intract with the map to see the power of brushing and answer all question I have make before. this multiple view merge between the histgram and the world map. you can easly find the number of skyscraper for each city by point on the city. Also, you can know when each city build the first skyscraper and when the whole world has an increase in the building of skyscrapers by using brushing and move it right or life on the hestorgram. it can be clearly find out thrugh 1900 - 1940 only USA has the skyscraper at that time. also, you can know when each city inter skyscraper clup. 
 
-I hope you enjoy in this project. moreover, you go fork and try my project on Vizhub or downlode the code and work with it.
+
+
+<br><br> <b>I hope you enjoy in this project. moreover, you go fork and try my project on [Vizhub](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5) or downlode the code and work with it.</b>
 
 ----
 ## Schedule of Deliverables
