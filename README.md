@@ -65,7 +65,7 @@ I build a new Dataset with latitude and longitude and the year of the first 150m
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
   * How many skyscrapers in a city?
-  * Whare are the most skyscrapers in the world? 
+  * Where are most skyscrapers in the world? 
   * When did the city build the first skyscraper?
   * When did the world has an increase in the building of skyscrapers?
   * etc
@@ -106,12 +106,12 @@ The above histogram shows that the total number of building in a city and the ye
 
 Cities on the world map show the number of skyscraper
 [![image](https://user-images.githubusercontent.com/25451974/97822920-62dfe300-1c85-11eb-861a-5b1d8a78cc91.png)](https://vizhub.com/dralmadani/7fe28642bfcc4ca882f678e0295910f6)
-<blockquote>
-  * When did the city build the first skyscraper?
-</blockquote>
-The above map shows triangles (mountains) on cities which has skyscrapers the higher mountains mean a higher number of skyscrapers in the city.
-it can be clear that New York City has a higher number of skyscrapers as it has the highest triangle.
 
+The above map shows triangles (mountains) on cities which have skyscrapers. The higher mountains mean a higher number of skyscrapers in the city.
+It can be clear that New York City has a higher number of skyscrapers as it has the highest triangle and this visulaisation answer the question
+<blockquote>
+  * Where are most skyscrapers in the world? 
+</blockquote>
 
 [![image](https://user-images.githubusercontent.com/25451974/98057145-92225b80-1e0f-11eb-8f5c-609ceaaa7dab.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
 the total number of building in each city and the year of building the first skyscraper in that city
