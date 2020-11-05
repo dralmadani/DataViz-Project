@@ -1,5 +1,5 @@
 
-# Data Visualization Project
+# Skyscraper Data Visualization Project
 AbdulSalam Almadani - Data Visualization - WPI  ( Fall 2020 )
 ----
 
