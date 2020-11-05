@@ -97,7 +97,7 @@ The idea behind these sketches is trying to imagine what some visualizations mig
 
 Question being answered:
 <blockquote>
-  * When did the city build the first skyscraper?
+  When did the city build the first skyscraper?
 </blockquote>
 The above histogram shows that the total number of building in a city and the year of building the first skyscraper in that city
 
@@ -108,7 +108,7 @@ Cities on the world map show the number of skyscraper
 The above map shows triangles (mountains) on cities which have skyscrapers. The higher mountains mean a higher number of skyscrapers in the city.
 It can be clear that New York City has a higher number of skyscrapers as it has the highest triangle and this visulaisation answer the question
 <blockquote>
-  * Where are most skyscrapers in the world? 
+  Where are most skyscrapers in the world? 
 </blockquote>
 
 [![image](https://user-images.githubusercontent.com/25451974/98057145-92225b80-1e0f-11eb-8f5c-609ceaaa7dab.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
