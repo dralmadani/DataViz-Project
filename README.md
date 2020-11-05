@@ -109,10 +109,12 @@ It can be clear that New York City has a higher number of skyscrapers as it has 
 <blockquote>
   Where are most skyscrapers in the world? 
 </blockquote>
+<br>
+<br>
 
 [![image](https://user-images.githubusercontent.com/25451974/98057145-92225b80-1e0f-11eb-8f5c-609ceaaa7dab.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
-the total number of building in each city and the year of building the first skyscraper in that city
-In this visualization, I created a multi-view by merging the histogram and the world map into one view
+the total number of building in each city and the year of building the first skyscraper in that city.
+In this visualization, I created a multi-view by merging the histogram and the world map into one view.
 
 Multiple views with brushing. This will help to see when a city build its first skyscraper.
 [![ multi-view](https://user-images.githubusercontent.com/25451974/98118821-c7fc2a00-1e79-11eb-9359-0ea938d61bec.jpeg)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
