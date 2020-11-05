@@ -22,7 +22,7 @@ AbdulSalam Almadani - Data Visualization - WPI  ( Fall 2020 )
 <tr><td>Structure of my data</td></tr> 
 <tr><td>Questions</td></tr>
 <tr><td>Sketches</td></tr>
-<tr><td>Project Dashboard</td></tr>
+<tr><td>Visualizations</td></tr>
 <tr><td>Project Video</td></tr>
 <tr><td>Schedule of Deliverables</td></tr>
  
@@ -129,6 +129,9 @@ You can also know when each city built its first skyscraper. It also shows you w
 
 
 <br><br> <b>I hope you enjoy in this project. moreover, you go fork and try my project on [Vizhub](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5) or downlode the code and work on it.</b>
+
+## Project Video
+[Video about the project](https://youtu.be/xBM6ldlKFiw)
 
 ----
 ## Schedule of Deliverables
