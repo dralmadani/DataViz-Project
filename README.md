@@ -45,7 +45,7 @@ I build a new Dataset with latitude and longitude and the year of the first 150m
 <img src="https://user-images.githubusercontent.com/25451974/97807483-24b7d480-1c2f-11eb-955a-002b758b7212.png" width="100"/>
 </div>
 
-#### The attribute
+#### Data attribute
 1- Rank
 <br> 2- City
 <br> 3- Country
@@ -106,10 +106,16 @@ The above histogram shows that the total number of building in a city and the ye
 
 Cities on the world map show the number of skyscraper
 [![image](https://user-images.githubusercontent.com/25451974/97822920-62dfe300-1c85-11eb-861a-5b1d8a78cc91.png)](https://vizhub.com/dralmadani/7fe28642bfcc4ca882f678e0295910f6)
+<blockquote>
+  * When did the city build the first skyscraper?
+</blockquote>
+The above map shows triangles (mountains) on cities which has skyscrapers the higher mountains mean a higher number of skyscrapers in the city.
+it can be clear that New York City has a higher number of skyscrapers as it has the highest triangle.
 
-In this visualization, I created a multi-view by merging the histogram and the world map into one view
+
 [![image](https://user-images.githubusercontent.com/25451974/98057145-92225b80-1e0f-11eb-8f5c-609ceaaa7dab.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
-
+the total number of building in each city and the year of building the first skyscraper in that city
+In this visualization, I created a multi-view by merging the histogram and the world map into one view
 
 Multiple views with brushing. This will help to see when a city build its first skyscraper.
 [![ multi-view](https://user-images.githubusercontent.com/25451974/98118821-c7fc2a00-1e79-11eb-9359-0ea938d61bec.jpeg)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
