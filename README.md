@@ -66,7 +66,7 @@ The following tasks and questions will drive the visualization and interaction d
   * How many skyscrapers in a city?
   * Where are most skyscrapers in the world? 
   * When did the city build the first skyscraper?
-  * When did the world has an increase in the building of skyscrapers?
+  * When did the world have an increase in the building of skyscrapers?
   * etc
   
 ----  
