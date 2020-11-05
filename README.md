@@ -128,7 +128,7 @@ You can also know when each city built its first skyscraper. It also shows you w
 <be>You can clearly find out that from 1900 to 1940 only the USA has skyscrapers. After 1965, many countries were starting to build skyscrapers around the world.
 
 
-<br><br> <b>I hope you enjoy in this project. moreover, you go fork and try my project on [Vizhub](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5) or downlode the code and work with it.</b>
+<br><br> <b>I hope you enjoy in this project. moreover, you go fork and try my project on [Vizhub](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5) or downlode the code and work on it.</b>
 
 ----
 ## Schedule of Deliverables
