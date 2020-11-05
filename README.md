@@ -118,8 +118,10 @@ In this visualization, I created a multi-view by merging the histogram and the w
 
 
 [![multi-map](https://user-images.githubusercontent.com/25451974/98189214-7c319b00-1ee2-11eb-824f-5c6836bd09ba.gif)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
-This visulaisation show you a multiple view with brushing. you can intract with the map to see the power of brushing and answer all question I have make before. this multiple view merge between the histgram and the world map. you can easly find the number of skyscraper for each city by point on the city. Also, you can know when each city build the first skyscraper and when the whole world has an increase in the building of skyscrapers by using brushing and move it right or life on the hestorgram. it can be clearly find out thrugh 1900 - 1940 only USA has the skyscraper at that time. also, you can know when each city inter skyscraper clup. 
+This visualization shows you multiple views with brushing. You can interact with [my visualization](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5) to see the power of brushing and answer all questions I had made before. This multi-view merges between the histogram and the world map. You can easily find the number of skyscrapers in each city by using the point in the city. 
+You can also know when each city built its first skyscraper. It also shows you when and where there was an urban renaissance in building skyscrapers by brushing and moving it through the years.
 
+<be>You can clearly find out that from 1900 to 1940 only the USA has skyscrapers. After 1965, many countries were starting to build skyscrapers around the world.
 
 
 <br><br> <b>I hope you enjoy in this project. moreover, you go fork and try my project on [Vizhub](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5) or downlode the code and work with it.</b>
