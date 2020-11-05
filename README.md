@@ -122,7 +122,7 @@ Multiple views with brushing. This will help to see when a city build its first 
 [![image](https://user-images.githubusercontent.com/25451974/98137778-5ed3e100-1e90-11eb-8de4-8e947282cff7.png)](https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5)
 
 <a href="https://vizhub.com/dralmadani/d27c1b4baee44b0884b08a3754ab0ad5">
-       <img src="https://user-images.githubusercontent.com/25451974/98137778-5ed3e100-1e90-11eb-8de4-8e947282cff7.png" width="800" height="500"/>
+       <img src="https://user-images.githubusercontent.com/25451974/98137778-5ed3e100-1e90-11eb-8de4-8e947282cff7.png" width="900" height="500"/>
 </a>
 
 
